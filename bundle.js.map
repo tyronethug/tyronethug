@@ -1,0 +1,281 @@
+{
+  "payload": {
+    "allShortcutsEnabled": true,
+    "fileTree": {
+      "public/@": {
+        "items": [
+          {
+            "name": "bundle.js",
+            "path": "public/@/bundle.js",
+            "contentType": "file"
+          },
+          {
+            "name": "bundle.js.map",
+            "path": "public/@/bundle.js.map",
+            "contentType": "file"
+          },
+          {
+            "name": "client.js",
+            "path": "public/@/client.js",
+            "contentType": "file"
+          },
+          {
+            "name": "client.js.map",
+            "path": "public/@/client.js.map",
+            "contentType": "file"
+          },
+          {
+            "name": "config.js",
+            "path": "public/@/config.js",
+            "contentType": "file"
+          },
+          {
+            "name": "handler.js",
+            "path": "public/@/handler.js",
+            "contentType": "file"
+          },
+          {
+            "name": "handler.js.map",
+            "path": "public/@/handler.js.map",
+            "contentType": "file"
+          },
+          {
+            "name": "sw-.js",
+            "path": "public/@/sw-.js",
+            "contentType": "file"
+          },
+          {
+            "name": "sw-.js.map",
+            "path": "public/@/sw-.js.map",
+            "contentType": "file"
+          },
+          {
+            "name": "sw.js",
+            "path": "public/@/sw.js",
+            "contentType": "file"
+          }
+        ],
+        "totalCount": 10
+      },
+      "public": {
+        "items": [
+          {
+            "name": "@",
+            "path": "public/@",
+            "contentType": "directory"
+          },
+          {
+            "name": "assets",
+            "path": "public/assets",
+            "contentType": "directory"
+          },
+          {
+            "name": "dynamic",
+            "path": "public/dynamic",
+            "contentType": "directory"
+          },
+          {
+            "name": "a.html",
+            "path": "public/a.html",
+            "contentType": "file"
+          },
+          {
+            "name": "g.html",
+            "path": "public/g.html",
+            "contentType": "file"
+          },
+          {
+            "name": "go.html",
+            "path": "public/go.html",
+            "contentType": "file"
+          },
+          {
+            "name": "index.html",
+            "path": "public/index.html",
+            "contentType": "file"
+          },
+          {
+            "name": "s.html",
+            "path": "public/s.html",
+            "contentType": "file"
+          }
+        ],
+        "totalCount": 8
+      },
+      "": {
+        "items": [
+          {
+            "name": ".github",
+            "path": ".github",
+            "contentType": "directory"
+          },
+          {
+            "name": "public",
+            "path": "public",
+            "contentType": "directory"
+          },
+          {
+            "name": ".gitignore",
+            "path": ".gitignore",
+            "contentType": "file"
+          },
+          {
+            "name": "LICENSE",
+            "path": "LICENSE",
+            "contentType": "file"
+          },
+          {
+            "name": "README.md",
+            "path": "README.md",
+            "contentType": "file"
+          },
+          {
+            "name": "ToS.md",
+            "path": "ToS.md",
+            "contentType": "file"
+          },
+          {
+            "name": "index.js",
+            "path": "index.js",
+            "contentType": "file"
+          },
+          {
+            "name": "package.json",
+            "path": "package.json",
+            "contentType": "file"
+          }
+        ],
+        "totalCount": 8
+      }
+    },
+    "fileTreeProcessingTime": 8.569347,
+    "foldersToFetch": [],
+    "repo": {
+      "id": 783987674,
+      "defaultBranch": "main",
+      "name": "Light",
+      "ownerLogin": "NightProxy",
+      "currentUserCanPush": false,
+      "isFork": false,
+      "isEmpty": false,
+      "createdAt": "2024-04-08T17:56:12.000-07:00",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/148915412?v=4",
+      "public": true,
+      "private": false,
+      "isOrgOwned": true
+    },
+    "codeLineWrapEnabled": false,
+    "symbolsExpanded": false,
+    "treeExpanded": true,
+    "refInfo": {
+      "name": "main",
+      "listCacheKey": "v0:1714047190.0",
+      "canEdit": true,
+      "refType": "branch",
+      "currentOid": "29889a4d3decb73133e7a84d2454cfa2fa40a558"
+    },
+    "path": "public/@/bundle.js.map",
+    "currentUser": {
+      "id": 172312456,
+      "login": "tyronethug",
+      "userEmail": "tyronethuggangster54@gmail.com"
+    },
+    "blob": {
+      "rawLines": null,
+      "stylingDirectives": [],
+      "colorizedLines": null,
+      "csv": null,
+      "csvError": null,
+      "dependabotInfo": {
+        "showConfigurationBanner": false,
+        "configFilePath": null,
+        "networkDependabotPath": "/NightProxy/Light/network/updates",
+        "dismissConfigurationNoticePath": "/settings/dismiss-notice/dependabot_configuration_notice",
+        "configurationNoticeDismissed": false
+      },
+      "displayName": "bundle.js.map",
+      "displayUrl": "https://github.com/NightProxy/Light/blob/main/public/@/bundle.js.map?raw=true",
+      "headerInfo": {
+        "blobSize": "2.11 MB",
+        "deleteTooltip": "Fork this repository and delete the file",
+        "editTooltip": "Fork this repository and edit the file",
+        "ghDesktopPath": "https://desktop.github.com",
+        "isGitLfs": false,
+        "onBranch": true,
+        "shortPath": "1344dd0",
+        "siteNavLoginPath": "/login?return_to=https%3A%2F%2Fgithub.com%2FNightProxy%2FLight%2Fblob%2Fmain%2Fpublic%2F%2540%2Fbundle.js.map",
+        "isCSV": false,
+        "isRichtext": false,
+        "toc": null,
+        "lineInfo": {
+          "truncatedLoc": null,
+          "truncatedSloc": null
+        },
+        "mode": "file"
+      },
+      "image": false,
+      "isCodeownersFile": null,
+      "isPlain": false,
+      "isValidLegacyIssueTemplate": false,
+      "issueTemplate": null,
+      "discussionTemplate": null,
+      "language": null,
+      "languageID": null,
+      "large": true,
+      "planSupportInfo": {
+        "repoIsFork": null,
+        "repoOwnedByCurrentUser": null,
+        "requestFullPath": "/NightProxy/Light/blob/main/public/%40/bundle.js.map",
+        "showFreeOrgGatedFeatureMessage": null,
+        "showPlanSupportBanner": null,
+        "upgradeDataAttributes": null,
+        "upgradePath": null
+      },
+      "publishBannersInfo": {
+        "dismissActionNoticePath": "/settings/dismiss-notice/publish_action_from_dockerfile",
+        "releasePath": "/NightProxy/Light/releases/new?marketplace=true",
+        "showPublishActionBanner": false
+      },
+      "rawBlobUrl": "https://github.com/NightProxy/Light/raw/main/public/@/bundle.js.map",
+      "renderImageOrRaw": true,
+      "richText": null,
+      "renderedFileInfo": null,
+      "shortPath": null,
+      "symbolsEnabled": true,
+      "tabSize": 8,
+      "topBannersInfo": {
+        "overridingGlobalFundingFile": false,
+        "globalPreferredFundingPath": null,
+        "showInvalidCitationWarning": false,
+        "citationHelpUrl": "https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files",
+        "actionsOnboardingTip": null
+      },
+      "truncated": true,
+      "viewable": false,
+      "workflowRedirectUrl": null,
+      "symbols": {
+        "timed_out": true,
+        "not_analyzed": true,
+        "symbols": [],
+        "error": {
+          "code": "invalid_argument",
+          "msg": "content required",
+          "meta": {
+
+          }
+        }
+      }
+    },
+    "copilotInfo": null,
+    "copilotAccessAllowed": false,
+    "csrf_tokens": {
+      "/NightProxy/Light/branches": {
+        "post": "xffKDLTorumbiAOemIfYFlzUQPz_O-4TzEloWDyv2eNpiNQI7MM0U8B0MfRIEvnvfV7XE8jCMeVQubyAkL8pWA"
+      },
+      "/repos/preferences": {
+        "post": "43AW2GCnOb3V95RHwcatsxLbv_WnXEmrH7FJdnlPqP7dIiIwdFxB1bCpYyESqs3XvxEG9Qy6B0YvGbNy_TBpww"
+      }
+    }
+  },
+  "title": "Light/public/@/bundle.js.map at main · NightProxy/Light"
+}
